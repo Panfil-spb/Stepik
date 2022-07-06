@@ -1,0 +1,1 @@
+is_non_negative_num = lambda x: x.count('.') <= 1 and x.replace('.', '').replace('-', '') and float(x) >= 0

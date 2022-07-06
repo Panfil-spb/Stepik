@@ -1,0 +1,1 @@
+func = lambda x: x[0].lower() == x[-1].lower() == 'a'
